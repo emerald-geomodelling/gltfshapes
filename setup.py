@@ -5,7 +5,7 @@ import os
 
 setuptools.setup(
     name='gltf-shapes',
-    version='0.0.1',
+    version='0.0.2',
     description='Transform numpy arrays and pandas dataframes to 3d exports',
     long_description="""Transform numpy arrays and pandas dataframes to 3d exports using trimesh""",
     long_description_content_type="text/markdown",
